@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggstance"]
+	path = ggstance
+	url = https://github.com/lionel-/ggstance
+	shallow = true
+	registered = true
