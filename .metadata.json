@@ -1,5 +1,17 @@
 [
   {
+    "package": "fontBitstreamVera",
+    "oncran": true
+  },
+  {
+    "package": "fontLiberation",
+    "oncran": true
+  },
+  {
+    "package": "fontquiver",
+    "oncran": true
+  },
+  {
     "package": "ggstance",
     "oncran": true
   }
