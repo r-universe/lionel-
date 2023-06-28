@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fontBitstreamVera"]
 	path = fontBitstreamVera
 	url = https://github.com/lionel-/fontbitstreamvera
-	shallow = true
-	registered = true
 [submodule "fontLiberation"]
 	path = fontLiberation
 	url = https://github.com/lionel-/fontliberation
-	shallow = true
-	registered = true
 [submodule "fontquiver"]
 	path = fontquiver
 	url = https://github.com/lionel-/fontquiver
-	shallow = true
-	registered = true
 [submodule "ggstance"]
 	path = ggstance
 	url = https://github.com/lionel-/ggstance
-	shallow = true
-	registered = true
